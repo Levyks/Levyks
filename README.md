@@ -13,6 +13,6 @@ console.log(myself);
     "age": 18,
     "from": "Fortaleza/Brazil",
     "studying": "Computer Science@IFCE",
-    "job": "Web Developer@opovoonline"
+    "job": "Backend Developer@opovoonline"
 }
 ```
