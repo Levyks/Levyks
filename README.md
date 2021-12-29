@@ -12,10 +12,6 @@
 
 ---
 
-
-
----
-
 ```js
 console.log(myself);
 ```
