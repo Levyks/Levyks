@@ -39,7 +39,6 @@ console.log(myself);
     "age": 19,
     "from": "Fortaleza/Brazil",
     "studying": "Computer Science@IFCE",
-    "job": "Backend Developer@opovoonline",
     "website": "https://levyks.com"
 }
 ```
