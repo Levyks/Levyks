@@ -36,7 +36,7 @@ console.log(myself);
 ```json
 {
     "name": "Levy Barbosa",
-    "age": 21,
+    "age": 22,
     "from": "Fortaleza/Brazil",
     "studying": "Computer Science@IFCE",
     "website": "https://levyks.com"
